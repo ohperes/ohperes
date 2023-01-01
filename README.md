@@ -1,29 +1,29 @@
 ## <img width='30' src='waving-hand.gif' />  Hi there, I'm Vinicius Peres
 
+<div align='right'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='17' alt='react logo' />
+  <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width='17' alt='typescript logo' />
+  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='17' alt='javascript logo' />
+  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='17' alt='node.js logo' />
+  <img src='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' width='17' alt='npm logo' />
+  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width='17' alt='css3 logo' />
+  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' width='17' alt='html logo' />
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='17' alt='python logo' />
+  <img src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg' width='17' alt='ubuntu logo' />
+  <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' width='17' alt='php logo' />
+</div>
+
 <img  align='right' width='206' src='john-karel.gif' alt='skeleton typing gif' />
 
-  
  - A software engineer who loves to write code.
 
  - Graduating as a Bachelor of Information Systems
 
  - Currently have been spending my time specializing in the Javascript stack.
 
+
 <br>
-
-<div align='left'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='50' alt='react logo' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width='50' alt='typescript logo' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='50' alt='javascript logo' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='50' alt='node.js logo' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' width='50' alt='npm logo' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width='50' alt='css3 logo' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' width='50' alt='html logo' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='50' alt='python logo' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg' width='50' alt='ubuntu logo' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' width='50' alt='php logo' />
-</div>
-
+<br>
 <br>
 
 <div align='right'>
