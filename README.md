@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<br><br>
+<br><br><br>
 
 <div align='left'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='65' alt='react logo' />
