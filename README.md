@@ -1,6 +1,6 @@
 ## <img width='30' src='waving-hand.gif' />  Hi there, I'm Vinicius Peres
 
-<img  align='right' width='200' src='john-karel.gif' alt='skeleton typing gif' />
+<img  align='right' width='206' src='john-karel.gif' alt='skeleton typing gif' />
 
   
  - A software engineer who loves to write code.
@@ -27,10 +27,10 @@
 <br>
 
 <div align='right'>
-  <a href='https://www.linkedin.com/in/ohperes/'>
-    <img width='98' src='https://img.shields.io/badge/-ohperes-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+  <a href='https://www.linkedin.com/in/viniciusperesdev'>
+    <img width='104' src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
   </a>
-  <a href='https://twitter.com/ohpeees'>
-    <img width='98' src='https://img.shields.io/badge/-ohpeees-%230077B5?style=for-the-badge&logo=twitter&logoColor=white' />
+  <a href='https://twitter.com/_peresvinicius'>
+    <img width='98' src='https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white' />
   </a>
 </div>
