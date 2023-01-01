@@ -1,6 +1,6 @@
 ## <img width='30' src='waving-hand.gif' />  Hi there, I'm Vinicius Peres
 
-<img  align='right' width='250' src='john-karel.gif' alt='skeleton typing gif' />
+<img  align='right' width='200' src='john-karel.gif' alt='skeleton typing gif' />
 
   
  - A software engineer who loves to write code.
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<br><br><br><br>
+<br><br>
 
 <div align='left'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='65' alt='react logo' />
