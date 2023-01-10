@@ -28,6 +28,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 
+<br>
+
 <div align='right'>
   <a href='https://www.linkedin.com/in/vinicsperes'>
     <img width='104' src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
